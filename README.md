@@ -12,6 +12,16 @@
 +   [ApacheCN 机器学习交流群 629470233](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)
 +   [ApacheCN 学习资源](http://www.apachecn.org/)
 
+## 下载
+
+### NPM
+
+```
+npm install -g python-programming-net-zh
+python-programming-net-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我
 
 ![](http://ww1.sinaimg.cn/large/841aea59ly1fx0qnvulnjj2074074747.jpg)
