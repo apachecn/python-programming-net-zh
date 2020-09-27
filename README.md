@@ -14,6 +14,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install python-programming-net-zh
+python-programming-net-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
